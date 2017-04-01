@@ -33,7 +33,7 @@ sys.path.append('../breathe')
 extensions = [
     'sphinx.ext.githubpages', 'sphinx.ext.pngmath', 'sphinx.ext.todo', 'breathe'
 ]
-breathe_projects = { "nutshell": "../xml"}
+breathe_projects = { "nutshell": "../xml2"}
 breathe_default_project = "nutshell"
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
