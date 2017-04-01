@@ -1,5 +1,5 @@
 ParaScripting
 ============
-.. doxygennamespace:: ParaScripting
+.. doxygenclass: ParaMisc
    :project: nutshell
    :members:
